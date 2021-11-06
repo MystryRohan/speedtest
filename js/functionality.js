@@ -1,4 +1,4 @@
-const typeText = "http://api.quotable.io/random";
+const typeText = "https://api.quotable.io/random";
 const textArea = document.querySelector(".txt-area");
 const textAreaInp = document.querySelector(".txt-inp");
 const timer = document.querySelector(".timer");
